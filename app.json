@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "desarrollo-movil-challenge-7",
+    "name": "challenge-7",
     "description": "This project is really great.",
-    "slug": "desarrollo-movil-challenge-7",
+    "slug": "challenge-7",
     "privacy": "public",
     "sdkVersion": "30.0.0",
     "platforms": ["ios", "android"],
